@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f8a5c22-8d38-4c33-b754-eb22f87d49b7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/udb/target/" />
+    <ignored path="$PROJECT_DIR$/hive/target/" />
+    <ignored path="$PROJECT_DIR$/async/target/" />
+    <ignored path="$PROJECT_DIR$/manager-platform/target/" />
+    <ignored path="$PROJECT_DIR$/swagger-test/target/" />
+    <ignored path="$PROJECT_DIR$/cache-test/target/" />
+    <ignored path="$PROJECT_DIR$/httpclient-test/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-student-config/target/" />
+    <ignored path="$PROJECT_DIR$/spring-batch-test/target/" />
+    <ignored path="$PROJECT_DIR$/async-test/target/" />
+    <ignored path="$PROJECT_DIR$/spring-scheduled-test/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cache-test/target/" />
+    <ignored path="$PROJECT_DIR$/spring-shiro/target/" />
+    <ignored path="$PROJECT_DIR$/spring-shiro-test/target/" />
+    <ignored path="$PROJECT_DIR$/spring-validation-test/target/" />
+    <ignored path="$PROJECT_DIR$/spring-async-test/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manager-platform/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-batch-test/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cache-test/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-batch-test/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-async-test/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-config-test/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-scheduled-test/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-shiro-test/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-swagger-test/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-validation-test/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/api/data/training</find>
+      <find>host</find>
+      <find>callbackFuncTest</find>
+      <find>algorithmSaveTest</find>
+      <find>updateAlgorithm</find>
+      <find>labelGetTest</find>
+      <find>labelSaveTest</find>
+      <find>updateLabel</find>
+      <find>labelGetOneTest</find>
+      <find>taskExcsSaveTest</find>
+      <find>/api/data/labels</find>
+      <find>/api/data/algorithms</find>
+      <find>Post</find>
+      <find>taskSaveTest</find>
+      <find>/api/data/tasks</find>
+      <find>contentType</find>
+      <find>update</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>data_host</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring-cache-test/src/main/java/com/huya/cachetest/CacheTestApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cache-test/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cache-test/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cache-test/src/main/java/com/huya/cachetest/model/Person.java" />
+        <option value="$PROJECT_DIR$/spring-cache-test/src/main/java/com/huya/cachetest/config/CacheConfig.java" />
+        <option value="$PROJECT_DIR$/spring-cache-test/src/main/java/com/huya/cachetest/service/PersonService.java" />
+        <option value="$PROJECT_DIR$/spring-shiro-test/src/main/java/com/beyondlcg/springshirotest/dao/User.java" />
+        <option value="$PROJECT_DIR$/spring-shiro-test/src/main/java/com/beyondlcg/springshirotest/dao/UserRoleMapper.java" />
+        <option value="$PROJECT_DIR$/spring-shiro-test/src/main/java/com/beyondlcg/springshirotest/dao/UserPermissionMapper.java" />
+        <option value="$PROJECT_DIR$/spring-shiro-test/src/main/java/com/beyondlcg/springshirotest/realm/ShiroRealm.java" />
+        <option value="$PROJECT_DIR$/spring-shiro-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-shiro-test/src/main/resources/config/shiro-ehcache" />
+        <option value="$PROJECT_DIR$/spring-shiro-test/src/main/java/com/beyondlcg/springshirotest/config/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/spring-shiro-test/src/main/java/com/beyondlcg/springshirotest/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/spring-shiro-test/src/main/java/com/beyondlcg/springshirotest/controller/ShiroController.java" />
+        <option value="$PROJECT_DIR$/spring-validation-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-validation-test/src/main/java/com/huya/springvalidationtest/exception/CodeMsg.java" />
+        <option value="$PROJECT_DIR$/spring-validation-test/src/main/java/com/huya/springvalidationtest/model/Result.java" />
+        <option value="$PROJECT_DIR$/spring-validation-test/src/main/java/com/huya/springvalidationtest/tools/UtilTools.java" />
+        <option value="$PROJECT_DIR$/spring-validation-test/src/main/java/com/huya/springvalidationtest/exception/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/spring-validation-test/src/main/java/com/huya/springvalidationtest/controller/ValidationController.java" />
+        <option value="$PROJECT_DIR$/spring-validation-test/src/main/java/com/huya/springvalidationtest/model/User.java" />
+        <option value="$PROJECT_DIR$/spring-validation-test/src/main/java/com/huya/springvalidationtest/validation/PhoneValidationValidator.java" />
+        <option value="$PROJECT_DIR$/spring-validation-test/src/main/java/com/huya/springvalidationtest/validation/PhoneValidation.java" />
+        <option value="$PROJECT_DIR$/spring-validation-test/src/main/resources/README.md" />
+        <option value="$PROJECT_DIR$/spring-shiro-test/src/main/java/com/beyondlcg/springshirotest/model/Role.java" />
+        <option value="$PROJECT_DIR$/spring-shiro-test/src/main/java/com/beyondlcg/springshirotest/model/Permission.java" />
+        <option value="$PROJECT_DIR$/spring-shiro-test/src/main/java/com/beyondlcg/springshirotest/model/User.java" />
+        <option value="$PROJECT_DIR$/spring-shiro-test/src/main/resources/README.md" />
+        <option value="$PROJECT_DIR$/spring-batch-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-batch-test/src/main/resources/README.md" />
+        <option value="$PROJECT_DIR$/async-test/src/main/resources/README.md" />
+        <option value="$PROJECT_DIR$/async-test/src/main/java/com/huya/async/exception/CustomAsyncRequestTimeoutException.java" />
+        <option value="$PROJECT_DIR$/async-test/src/main/java/com/huya/async/config/TimeoutCallableProcessor.java" />
+        <option value="$PROJECT_DIR$/async-test/src/main/java/com/huya/async/config/AsyncPoolConfig.java" />
+        <option value="$PROJECT_DIR$/spring-async-test/src/main/java/com/huya/springasynctest/SpringAsyncTestApplication.java" />
+        <option value="$PROJECT_DIR$/spring-async-test/src/main/java/com/huya/springasynctest/service/SyncService.java" />
+        <option value="$PROJECT_DIR$/spring-async-test/src/main/java/com/huya/springasynctest/config/AsyncPoolConfig.java" />
+        <option value="$PROJECT_DIR$/spring-async-test/src/main/resources/README.md" />
+        <option value="$PROJECT_DIR$/spring-cache-test/README.md" />
+        <option value="$PROJECT_DIR$/spring-async-test/src/main/java/com/huya/springasynctest/service/AsyncService.java" />
+        <option value="$PROJECT_DIR$/spring-async-test/src/main/java/com/huya/springasynctest/controller/AsyncController.java" />
+        <option value="$PROJECT_DIR$/spring-cache-test/.gitignore" />
+        <option value="$PROJECT_DIR$/spring-async-test/.gitignore" />
+        <option value="$PROJECT_DIR$/manager-platform/.gitignore" />
+        <option value="$PROJECT_DIR$/spring-batch-test/.gitignore" />
+        <option value="$PROJECT_DIR$/spring-config-test/.gitignore" />
+        <option value="$PROJECT_DIR$/spring-scheduled-test/.gitignore" />
+        <option value="$PROJECT_DIR$/spring-shiro-test/.gitignore" />
+        <option value="$PROJECT_DIR$/spring-swagger-test/.gitignore" />
+        <option value="$PROJECT_DIR$/spring-validation-test/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hive" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hive" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="526" />
+    <option name="y" value="40" />
+    <option name="width" value="1020" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="udb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-shiro-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-swagger-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-validation-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548730773212" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ai-project-management-platform" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.41954023" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.beyondlcg.springscheduledtest.service" />
+      <recent name="com.huya.async.Service" />
+      <recent name="com.huya.cachetest.model" />
+      <recent name="com.huya.managerplatform.tools" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.huya.managerplatform" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\project\Java\udb\async-test" />
+      <recent name="F:\project\Java\udb\spring-validation-test" />
+      <recent name="F:\project\Java\udb\spring-shiro-test" />
+      <recent name="F:\project\Java\udb\spring-batch-test" />
+      <recent name="F:\project\Java\udb\spring-async-test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringValidationTestApplication">
+    <configuration name="AsyncApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="async-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huya.async.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huya.async" />
+      <option name="MAIN_CLASS_NAME" value="com.huya.async.AsyncApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AsyncServiceTest.asyncService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="async-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huya.async.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huya.async.Service" />
+      <option name="MAIN_CLASS_NAME" value="com.huya.async.Service.AsyncServiceTest" />
+      <option name="METHOD_NAME" value="asyncService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.getPid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-cache-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huya.cachetest.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huya.cachetest.model" />
+      <option name="MAIN_CLASS_NAME" value="com.huya.cachetest.model.PersonTest" />
+      <option name="METHOD_NAME" value="getPid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduledTasksTest.reportCurrentTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-scheduled-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beyondlcg.springscheduledtest.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.beyondlcg.springscheduledtest.service" />
+      <option name="MAIN_CLASS_NAME" value="com.beyondlcg.springscheduledtest.service.ScheduledTasksTest" />
+      <option name="METHOD_NAME" value="reportCurrentTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskServiceTest.doTaskOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="async-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huya.async.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huya.async.service" />
+      <option name="MAIN_CLASS_NAME" value="com.huya.async.service.TaskServiceTest" />
+      <option name="METHOD_NAME" value="doTaskOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AsyncApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="async-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huya.async.AsyncApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CacheTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cache-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huya.cachetest.CacheTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HiveApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hive-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huya.hive.HiveApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpclientTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="httpclient-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huya.httpclienttest.HttpclientTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerPlatformApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="manager-platform" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huya.managerplatform.ManagerPlatformApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringAsyncTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-async-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huya.springasynctest.SpringAsyncTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBatchTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-batch-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.beyondlcg.springbatchtest.SpringBatchTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootStudentConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-config-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.beyondlcg.springbootstudentconfig.SpringBootStudentConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringScheduledTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-scheduled-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.beyondlcg.springscheduledtest.SpringScheduledTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringShiroTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-shiro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.beyondlcg.springshirotest.SpringShiroTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringValidationTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-validation-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huya.springvalidationtest.SpringValidationTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwaggerTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-swagger-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huya.swaggertest.SwaggerTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ScheduledTasksTest.reportCurrentTime" />
+        <item itemvalue="JUnit.PersonTest.getPid" />
+        <item itemvalue="JUnit.TaskServiceTest.doTaskOne" />
+        <item itemvalue="JUnit.AsyncApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.AsyncServiceTest.asyncService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f8a5c22-8d38-4c33-b754-eb22f87d49b7" name="Default Changelist" comment="" />
+      <created>1547003597131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547003597131</updated>
+      <workItem from="1547003600213" duration="909000" />
+      <workItem from="1547004538800" duration="20794000" />
+      <workItem from="1547085082295" duration="5042000" />
+      <workItem from="1547105066088" duration="17812000" />
+      <workItem from="1547171765583" duration="5792000" />
+      <workItem from="1547197989872" duration="1470000" />
+      <workItem from="1547201730378" duration="2354000" />
+      <workItem from="1547430936335" duration="9413000" />
+      <workItem from="1547449673348" duration="10606000" />
+      <workItem from="1547516787410" duration="23938000" />
+      <workItem from="1547603693884" duration="24402000" />
+      <workItem from="1547689609485" duration="18805000" />
+      <workItem from="1547780632125" duration="10187000" />
+      <workItem from="1548035757929" duration="30619000" />
+      <workItem from="1548208062004" duration="18196000" />
+      <workItem from="1548384262045" duration="8934000" />
+      <workItem from="1548639328184" duration="21954000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AIHttpClientTest_httpPutMethod - 2019.01.16 at 10h 57m 44s.xml">
+      <configuration name="AIHttpClientTest.httpPutMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaskTest_test - 2019.01.24 at 15h 48m 21s.xml">
+      <configuration name="TaskTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaskTest_test - 2019.01.24 at 15h 49m 24s.xml">
+      <configuration name="TaskTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaskTest_test - 2019.01.24 at 15h 49m 52s.xml">
+      <configuration name="TaskTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaskServiceTest_doTask - 2019.01.24 at 15h 50m 40s.xml">
+      <configuration name="TaskServiceTest.doTask" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AsyncServiceTest_asyncService - 2019.01.24 at 15h 51m 20s.xml">
+      <configuration name="AsyncServiceTest.asyncService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AsyncApplicationTests_contextLoads - 2019.01.24 at 15h 52m 15s.xml">
+      <configuration name="AsyncApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaskServiceTest_doTaskOne - 2019.01.24 at 15h 53m 14s.xml">
+      <configuration name="TaskServiceTest.doTaskOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonTest_getPid - 2019.01.24 at 15h 53m 54s.xml">
+      <configuration name="PersonTest.getPid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScheduledTasksTest_reportCurrentTime - 2019.01.24 at 18h 06m 03s.xml">
+      <configuration name="ScheduledTasksTest.reportCurrentTime" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="231761000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2803838" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.46161824" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49946696" visible="true" weight="0.21495327" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.1773859" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.21784233" />
+      <window_info anchor="bottom" id="Duplicate detector" order="12" weight="0.32987553" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.32987553" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32987553" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.529595" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.108742006" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07249467" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34958506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1793249" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.38589212" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Duplicate detector" order="12" weight="0.32987553" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32911393" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.20628998" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-shiro-test/src/main/java/com/beyondlcg/springshirotest/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-shiro-test/src/main/java/com/beyondlcg/springshirotest/realm/ShiroRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-shiro-test/src/main/java/com/beyondlcg/springshirotest/controller/ShiroController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-shiro-test/src/main/java/com/beyondlcg/springshirotest/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-validation-test/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="100">
+            <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-validation-test/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-shiro-test/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="40">
+            <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-validation-test/src/main/java/com/huya/springvalidationtest/controller/ValidationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-validation-test/src/main/java/com/huya/springvalidationtest/exception/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/async-test/src/main/java/com/huya/async/controller/WebAsyncTaskTestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-batch-test/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-batch-test/mvnw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-batch-test/spring-batch-test.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-batch-test/src/main/java/com/beyondlcg/springbatchtest/config/BatchConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-batch-test/src/main/java/com/beyondlcg/springbatchtest/controller/JobInvokerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-batch-test/src/main/java/com/beyondlcg/springbatchtest/listener/JobCompletedListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-batch-test/src/main/java/com/beyondlcg/springbatchtest/step/Processor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-batch-test/src/main/java/com/beyondlcg/springbatchtest/step/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-batch-test/src/main/java/com/beyondlcg/springbatchtest/step/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-batch-test/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Deprecated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.3.RELEASE/spring-webmvc-5.1.3.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#2417#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.3.RELEASE/spring-webmvc-5.1.3.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.3.RELEASE/spring-context-5.1.3.RELEASE.jar!/org/springframework/scheduling/concurrent/ThreadPoolTaskExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/async-test/src/main/java/com/huya/async/controller/AsyncTestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.3.RELEASE/spring-webmvc-5.1.3.RELEASE.jar!/org/springframework/web/servlet/config/annotation/AsyncSupportConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/async-test/src/main/java/com/huya/async/exception/CustomAsyncRequestTimeoutException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/async-test/src/main/java/com/huya/async/config/TimeoutCallableProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/async-test/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret column="32" selection-start-column="32" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-async-test/src/main/java/com/huya/springasynctest/SpringAsyncTestApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/async-test/src/main/java/com/huya/async/config/AsyncPoolConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71">
+          <caret line="16" column="63" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1667#1668#0" expanded="true" />
+            <element signature="e#1732#1733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-async-test/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="20">
+            <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-async-test/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache-test/src/main/java/com/huya/cachetest/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache-test/src/main/java/com/huya/cachetest/config/CacheConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache-test/src/main/java/com/huya/cachetest/service/PersonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache-test/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="40">
+            <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-async-test/src/main/java/com/huya/springasynctest/config/AsyncPoolConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-async-test/src/main/java/com/huya/springasynctest/service/AsyncService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-async-test/src/main/java/com/huya/springasynctest/controller/AsyncController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-scheduled-test/src/main/java/com/beyondlcg/springscheduledtest/service/ScheduledTasks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cache-test/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager-platform/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-batch-test/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-batch-test/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-async-test/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-config-test/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-scheduled-test/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-shiro-test/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-swagger-test/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-validation-test/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-async-test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.41954023" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apache.httpcomponents:httpclient:4.5.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.41954023" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

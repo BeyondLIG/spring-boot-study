@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    name: root
+    password: workhard
+    driver-class-name: com.mysql.jdbc.Driver

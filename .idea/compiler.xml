@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-test" />
+        <module name="async-test" />
+        <module name="manager-platform" />
+        <module name="spring-async-test" />
+        <module name="spring-batch-test" />
+        <module name="spring-boot-student-mybatis" />
+        <module name="spring-cache-test" />
+        <module name="spring-scheduled-test" />
+        <module name="spring-shiro-test" />
+        <module name="spring-validation-test" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-student-mybatis" enabled="true">
+        <sourceOutputDir name="../spring-boot-student-config/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../spring-boot-student-config/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-config-test" />
+      </profile>
+      <profile name="Annotation profile for swagger-test" enabled="true">
+        <sourceOutputDir name="../swagger-test/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../swagger-test/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-swagger-test" />
+      </profile>
+      <profile name="Annotation profile for hive" enabled="true">
+        <sourceOutputDir name="../hive/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../hive/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hive-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-test" target="1.5" />
+      <module name="async-test" target="1.8" />
+      <module name="hive-test" target="1.8" />
+      <module name="httpclient-test" target="1.8" />
+      <module name="manager-platform" target="1.8" />
+      <module name="spring-async-test" target="1.8" />
+      <module name="spring-batch-test" target="1.8" />
+      <module name="spring-boot-student-mybatis" target="1.8" />
+      <module name="spring-cache-test" target="1.8" />
+      <module name="spring-config-test" target="1.8" />
+      <module name="spring-scheduled-test" target="1.8" />
+      <module name="spring-shiro" target="1.8" />
+      <module name="spring-shiro-test" target="1.8" />
+      <module name="spring-swagger-test" target="1.8" />
+      <module name="spring-validation-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="async-test" options="-parameters" />
+      <module name="hive-test" options="-parameters" />
+      <module name="httpclient-test" options="-parameters" />
+      <module name="manager-platform" options="-parameters" />
+      <module name="spring-async-test" options="-parameters" />
+      <module name="spring-batch-test" options="-parameters" />
+      <module name="spring-boot-student-mybatis" options="-parameters" />
+      <module name="spring-cache-test" options="-parameters" />
+      <module name="spring-config-test" options="-parameters" />
+      <module name="spring-scheduled-test" options="-parameters" />
+      <module name="spring-shiro" options="-parameters" />
+      <module name="spring-shiro-test" options="-parameters" />
+      <module name="spring-swagger-test" options="-parameters" />
+      <module name="spring-validation-test" options="-parameters" />
+    </option>
+  </component>
+</project>

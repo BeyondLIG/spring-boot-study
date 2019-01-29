@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java8Stream/Java8Stream.iml" filepath="$PROJECT_DIR$/Java8Stream/Java8Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-test/api-test.iml" filepath="$PROJECT_DIR$/api-test/api-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/async-test/async-test.iml" filepath="$PROJECT_DIR$/async-test/async-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hive-test/hive-test.iml" filepath="$PROJECT_DIR$/hive-test/hive-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient-test/httpclient-test.iml" filepath="$PROJECT_DIR$/httpclient-test/httpclient-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manager-platform/manager-platform.iml" filepath="$PROJECT_DIR$/manager-platform/manager-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-async-test/spring-async-test.iml" filepath="$PROJECT_DIR$/spring-async-test/spring-async-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-batch-test/spring-batch-test.iml" filepath="$PROJECT_DIR$/spring-batch-test/spring-batch-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config-test/spring-boot-student-mybatis.iml" filepath="$PROJECT_DIR$/spring-config-test/spring-boot-student-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cache-test/spring-cache-test.iml" filepath="$PROJECT_DIR$/spring-cache-test/spring-cache-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config-test/spring-config-test.iml" filepath="$PROJECT_DIR$/spring-config-test/spring-config-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-scheduled-test/spring-scheduled-test.iml" filepath="$PROJECT_DIR$/spring-scheduled-test/spring-scheduled-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-shiro-test/spring-shiro-test.iml" filepath="$PROJECT_DIR$/spring-shiro-test/spring-shiro-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-batch-test/spring-shiro-test.iml" filepath="$PROJECT_DIR$/spring-batch-test/spring-shiro-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-swagger-test/spring-swagger-test.iml" filepath="$PROJECT_DIR$/spring-swagger-test/spring-swagger-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-validation-test/spring-validation-test.iml" filepath="$PROJECT_DIR$/spring-validation-test/spring-validation-test.iml" />
+    </modules>
+  </component>
+</project>
