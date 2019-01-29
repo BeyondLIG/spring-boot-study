@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cache-test/spring-cache-test.iml" filepath="$PROJECT_DIR$/spring-cache-test/spring-cache-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-config-test/spring-config-test.iml" filepath="$PROJECT_DIR$/spring-config-test/spring-config-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-scheduled-test/spring-scheduled-test.iml" filepath="$PROJECT_DIR$/spring-scheduled-test/spring-scheduled-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-session-test/spring-session-test.iml" filepath="$PROJECT_DIR$/spring-session-test/spring-session-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-shiro-test/spring-shiro-test.iml" filepath="$PROJECT_DIR$/spring-shiro-test/spring-shiro-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-batch-test/spring-shiro-test.iml" filepath="$PROJECT_DIR$/spring-batch-test/spring-shiro-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-swagger-test/spring-swagger-test.iml" filepath="$PROJECT_DIR$/spring-swagger-test/spring-swagger-test.iml" />

@@ -16,6 +16,7 @@
         <module name="spring-boot-student-mybatis" />
         <module name="spring-cache-test" />
         <module name="spring-scheduled-test" />
+        <module name="spring-session-test" />
         <module name="spring-shiro-test" />
         <module name="spring-validation-test" />
       </profile>
@@ -52,6 +53,7 @@
       <module name="spring-cache-test" target="1.8" />
       <module name="spring-config-test" target="1.8" />
       <module name="spring-scheduled-test" target="1.8" />
+      <module name="spring-session-test" target="1.8" />
       <module name="spring-shiro" target="1.8" />
       <module name="spring-shiro-test" target="1.8" />
       <module name="spring-swagger-test" target="1.8" />
@@ -72,6 +74,7 @@
       <module name="spring-cache-test" options="-parameters" />
       <module name="spring-config-test" options="-parameters" />
       <module name="spring-scheduled-test" options="-parameters" />
+      <module name="spring-session-test" options="-parameters" />
       <module name="spring-shiro" options="-parameters" />
       <module name="spring-shiro-test" options="-parameters" />
       <module name="spring-swagger-test" options="-parameters" />
