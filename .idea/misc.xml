@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/spring-validation-test/pom.xml" />
         <option value="$PROJECT_DIR$/spring-async-test/pom.xml" />
         <option value="$PROJECT_DIR$/spring-actuator-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-banner-test/pom.xml" />
       </list>
     </option>
   </component>

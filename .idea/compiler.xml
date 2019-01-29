@@ -11,6 +11,7 @@
         <module name="manager-platform" />
         <module name="spring-actuator-test" />
         <module name="spring-async-test" />
+        <module name="spring-banner-test" />
         <module name="spring-batch-test" />
         <module name="spring-boot-student-mybatis" />
         <module name="spring-cache-test" />
@@ -45,6 +46,7 @@
       <module name="manager-platform" target="1.8" />
       <module name="spring-actuator-test" target="1.8" />
       <module name="spring-async-test" target="1.8" />
+      <module name="spring-banner-test" target="1.8" />
       <module name="spring-batch-test" target="1.8" />
       <module name="spring-boot-student-mybatis" target="1.8" />
       <module name="spring-cache-test" target="1.8" />
@@ -64,6 +66,7 @@
       <module name="manager-platform" options="-parameters" />
       <module name="spring-actuator-test" options="-parameters" />
       <module name="spring-async-test" options="-parameters" />
+      <module name="spring-banner-test" options="-parameters" />
       <module name="spring-batch-test" options="-parameters" />
       <module name="spring-boot-student-mybatis" options="-parameters" />
       <module name="spring-cache-test" options="-parameters" />
