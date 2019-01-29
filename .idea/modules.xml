@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/hive-test/hive-test.iml" filepath="$PROJECT_DIR$/hive-test/hive-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpclient-test/httpclient-test.iml" filepath="$PROJECT_DIR$/httpclient-test/httpclient-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/manager-platform/manager-platform.iml" filepath="$PROJECT_DIR$/manager-platform/manager-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-actuator-test/spring-actuator-test.iml" filepath="$PROJECT_DIR$/spring-actuator-test/spring-actuator-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-async-test/spring-async-test.iml" filepath="$PROJECT_DIR$/spring-async-test/spring-async-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-batch-test/spring-batch-test.iml" filepath="$PROJECT_DIR$/spring-batch-test/spring-batch-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-config-test/spring-boot-student-mybatis.iml" filepath="$PROJECT_DIR$/spring-config-test/spring-boot-student-mybatis.iml" />

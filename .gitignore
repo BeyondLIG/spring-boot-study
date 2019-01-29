@@ -3,5 +3,6 @@
 /hive-test/
 /manager-platform/
 /ai-project-management-platform/
-
+/udb/target/classes/
+/.idea/
 
